@@ -1,4 +1,5 @@
-# Database Creation and Simple Queries Script (SQL)
+# US Strike Command
+## Database Creation and Simple Queries Script (SQL)
 
 Database creation and simple queries data exploration completed using SQL.
 
